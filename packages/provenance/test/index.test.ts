@@ -1,5 +1,5 @@
-import { it, expect } from "vitest";
+import { expect, it } from "vitest"
 
 it("should pass", () => {
-  expect(1).toBe(1);
+  expect(1).toBe(1)
 })
